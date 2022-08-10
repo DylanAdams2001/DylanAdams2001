@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DylanAdams2001
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python & Java
+- 🌱 I’m currently learning Python & JavaScript HTML & CSS
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me dylana29@hotmail.com
 
