@@ -1,0 +1,169 @@
+
+
+* {
+
+    background-color: #c9c7c7;
+    font-family: 'Raleway', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-weight: bold;
+
+}
+
+.header h1 {
+    color: white;
+    padding-left: 70px;
+    background: #776e6a;
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    text-decoration: line-through;
+}
+
+.about-me {
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-right: 0px;
+    float: left;
+    width: 750px;
+
+}
+
+p{
+    margin-top: 50px;
+}
+
+.ideal-job {
+    
+    margin-left: 100px;
+    margin-right: 100px;
+    display:inline-flex;
+    margin-top: 40px;
+    
+
+}
+
+.image {
+    float: right;
+    margin-top: 120px;
+    margin-right: 250px;
+    margin-left: 00px;
+    
+    
+}
+
+.job-image {
+    margin-top: 50px;
+    border-radius: 3%;
+    
+}
+
+.dp {
+    width: 400px;
+    height: auto;
+    border-radius: 10%;
+}
+
+.job-link {
+    margin-left: 10px;
+}
+
+ img:hover  {
+    transform: scale(1.8);
+    margin-left: 100px;
+    transition: 1s ease;
+}
+
+.ideal-job-heading {
+    margin-top: 100px;
+    padding-left: 80px;
+    
+}
+
+
+
+
+
+.p-2 {
+    margin-top: 60px;
+    padding-left: 30px;
+    padding-right: 150px;
+}
+
+.tests-par {
+    color: white;
+    padding: 50px;
+    background-color: #776e6a;
+    margin-top: 50px;
+    
+    
+}
+
+.tests-par h2 {
+    color: white;
+    background-color: #776e6a;
+    margin-bottom: 10px;
+    
+}
+
+.tests-pho {
+    display: inline-flex;
+    background-color:#776e6a;
+    padding:110px
+    
+}
+
+.img1 {
+    margin-left: 20px;
+}
+
+.img2 {
+    margin-left: 110px;
+}
+
+.img3 {
+    margin-left: 110px;
+    margin-right: 10px;
+}
+
+.project-div {
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.project-heading {
+    margin-bottom: 0px;
+}
+
+.project-p {
+    margin-top: 20px;
+}
+
+
+.footer-div {
+    padding: 100px;
+    background-color: #776e6a;
+    color: white;
+}
+
+
+.footer-div a {
+    color: white;
+    background-color: #776e6a;
+}
+
+.footer-div li {
+ 
+    background-color: #776e6a;
+    padding: 10px;
+}
+
+.footer-div ul {
+    background-color: #776e6a;
+    
+}
+
